@@ -1,1 +1,1 @@
-uri: 'mongodb://MongoDB:27017/knf-dev'
+uri: 'mongodb+srv://korisnik:korisnik@cluster0.ygqt7.mongodb.net/?retryWrites=true&w=majority'
